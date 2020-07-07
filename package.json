@@ -1,6 +1,6 @@
 {
   "name": "micro-cacheable",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "description": "A micro utility for data caching",
   "author": "fmiras",
   "license": "MIT",
